@@ -1,3 +1,16 @@
+# Players-Scoreboard
+Simple players scoreboard where new players can be added and existing players can be removed. Currently no database support. Made using Svelte JS. 
+
+# To run the project 
+npm i
+
+npm run dev
+
+Navigate to localhost:5000. You should see your app running.
+
+# To build the project
+npm run build
+
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
